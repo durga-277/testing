@@ -1,0 +1,2 @@
+why this vim file cant add to the 
+git what is the proble
